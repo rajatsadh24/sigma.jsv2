@@ -48,7 +48,7 @@
     "babel-eslint": "10.0.1",
     "babel-loader": "8.0.4",
     "chroma-js": "^1.4.0",
-    "d3-scale": "^2.1.2",
+    "d3-scale": "^4.0.2",
     "eslint": "^4.19.1",
     "faker": "^4.1.0",
     "glob": "^7.1.3",
